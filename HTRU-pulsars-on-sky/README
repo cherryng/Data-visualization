@@ -1,4 +1,4 @@
-A script to plot HTRU pulsars on hammer projection grid sky. Frist created in around 2014 at MPIfR Bonn. 
+A script to plot HTRU pulsars on hammer projection grid sky. Frist created in 2014 at MPIfR Bonn. 
 
 Usage: `python HTRU-new-pulsars-on-sky.py`
 
