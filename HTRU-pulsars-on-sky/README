@@ -1,1 +1,5 @@
 A script to plot pulsars on hammer projection grid sky.
+
+Required input:
+  "known-pulsars.dat" : contain 2 columns of RA and dec of all known pulsars.
+  
