@@ -14,5 +14,4 @@ Optional input:
   To plot FRBs, provide name of frb file as first argument. For example:
   `python HTRU-new-pulsars-on-sky.py FRB.dat`
 
-![Output](https://github.com/cherryng/Useful-plotting-scripts/blob/65694a25fb26611dc6baf8ad59589d5a5d9b2c26/HTRU-pulsars-on-sky/HTRU-new-pulsars-on-sky.png)
-![picture](HTRU-new-pulsars-on-sky.png)
+![output plot](HTRU-new-pulsars-on-sky.png)
