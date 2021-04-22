@@ -1,2 +1,2 @@
-# Useful-plotting-scripts
-A collection of python plotting scripts I made for various purpose...
+# Data visualization
+A collection of plotting scripts I made for various data visualization.
