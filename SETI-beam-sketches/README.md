@@ -1,5 +1,6 @@
 Sketches showing commensal coherent formed beams using interferometric telescopes for SETI searches.
+* Green: Instantaneous field-of-view of the telescope (FOV)
+* Red: Selected target by the primary observer
+* Blue: Commensal coherent formed beams within the FOV, pointing to other targets
 
-<img src=SETI_beamform1.png alt="alt text" width="50">
-<img src=SETI_beamform2.png alt="alt text" width="50">
-<img src=SETI_beamform3.png alt="alt text" width="50">
+![Plot](SETI_beamform3.png)
